@@ -1,0 +1,136 @@
+body{
+	font-family: 'Ubuntu', sans-serif;
+	
+}
+#title{
+	background-color: #00ab14;
+}
+h1{
+	font-family: 'Roboto Mono', monospace;
+	font-size: 3.0rem;
+	line-height: 1.5;
+	text-align:left;
+	margin-left:0px;
+	color:#fff;
+
+}
+.container-fluid1{
+	padding:3% 10% 0% 10%;
+	margin-top:0px;
+}
+.btn{
+	margin:4% 2% 4% 2%;
+}
+
+.navbar{
+	padding-bottom:2.0rem;
+	margin-bottom:10px;
+
+}
+.navbar-brand{
+	font-size: 2.0rem;
+	font-weight: 2%;
+	font-family: 'Ubuntu', sans-serif;
+	color:black;
+}
+.nav-item{
+	font-size:20px;
+	margin:0px 10px 0px 10px;
+
+}
+#phone-img{
+	transform: rotate(20deg);
+	width:60%;
+	float:right;
+	
+}
+
+/*features*/
+
+
+.cols{
+	padding:0% 5% 0% 5%;
+	margin:15px 0px 15px 0px;
+
+}
+
+
+#features{
+	background-color:#000;
+	color:#00ab14;
+	padding:7% 15% 7% 15%;
+}
+
+.container-fluid2{
+	
+	text-align: center;
+	line-height: 1.5;
+	font-size: 20px;
+
+}
+
+.features{
+	font-size: 3.2rem;
+	text-align:center;
+	margin-bottom:1.5rem;
+	color:#00ab2e;
+	
+}
+.features:hover{
+	font-size: 3.2rem;
+	text-align:center;
+	color:#00ab14;
+}
+h3{
+	font-family: 'Bebas Neue', cursive;
+	margin:15px;
+}
+/*testimonaials*/
+#testimonials{
+	background-color:#00ab14;
+	color:white; 
+	text-align: center;
+	
+}
+
+.test-user{
+	font-size: 6.2rem;
+	color:#000;
+	margin-top:2%;
+}
+.carousel-item{
+	padding:10% 35% 10% 35%;
+	margin:0 auto;
+}
+
+
+/*cta*/
+
+#cta{
+	padding:5% 15% 5% 15%;
+	font-family: 'Bebas Neue', cursive;
+	background-color:#000;
+	color:white; 
+	text-align: center;
+}
+
+
+.end{
+	text-align:center;
+	background-color: #000;
+	color:#00ab14;
+	padding:2% 2% 2% 2%;
+}
+
+.footicon{
+	margin-top:2px;
+	padding:50px;
+	text-decoration: none;
+	color:#00ab14;
+}
+
+.footicon:hover{
+	
+	text-decoration: underline;
+	color:#00ab14;
+}
